@@ -1,3 +1,4 @@
 /.DS_Store
 ./Scrap/node_modules/
 ./Scrap/node_modules/*
+./Scrap/node_modules
