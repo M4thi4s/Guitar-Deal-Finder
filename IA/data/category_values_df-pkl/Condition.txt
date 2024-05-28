@@ -1,0 +1,6 @@
+Excellent
+Good
+Very Good
+Mint
+Fair
+Poor

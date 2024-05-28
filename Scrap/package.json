@@ -1,0 +1,17 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scrap and parse datas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
